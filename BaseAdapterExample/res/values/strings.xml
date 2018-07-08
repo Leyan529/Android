@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BaseAdapterExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="empty">沒資料</string>
+    <string-array name="books">
+        <item >賈伯斯</item>
+        <item >黑天鵝</item>
+        <item >快思慢想</item>
+    </string-array>
+    
+
+</resources>

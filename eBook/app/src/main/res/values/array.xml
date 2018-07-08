@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="bookCate1" >
+        <item>Chapter1 起源</item>
+        <item>Chapter2開始</item>
+        <item>Chapter3烈</item>
+        <item>Chapter4嵐</item>
+        <item>Chapter5滅</item>
+        <item>Chapter6生活-旅行</item>
+        <item>Chapter7旅行開始</item>
+        <item>Chapter8殤</item>
+        <item>Chapter9前世消失</item>
+        <item>Chapter10回歸</item>
+        <item>Chapter11新成員嶽、雯、轍、婷</item>
+        <item>Chapter12暴動</item>
+        <item>Chapter13謎</item>
+        <item>Chapter14爛行程</item>
+        <item>Chapter15面臨</item>
+        <item>Chapter16謎的故事</item>
+        <item>Chapter17謎變絕</item>
+        <item>Chapter18絕激戰</item>
+        <item>夏雨詩</item>
+    </array>
+    <array name="bookCate2" >
+        <item>Chapter19新的序幕</item>
+        <item>Chapter20神鬼傳奇</item>
+        <item>Chapter21探勘及尋找</item>
+        <item>Chapter22遠古秘術</item>
+        <item>Chapter23同伴的協助</item>
+        <item>Chapter24三樣法器</item>
+        <item>Chapter25死者聖杯</item>
+        <item>Chapter26最後的法器</item>
+        <item>Chapter27封印</item>
+        <item>Chapter28另一個結束的開端</item>
+    </array>
+    <array name="bookCate3" >
+        <item>Chapter27前言</item>
+        <item>Chapter28 前奏</item>
+        <item>Chapter29 轉變</item>
+        <item>Chapter30 中言</item>
+        <item>Chapter31 紫戀建構-初章 &#38; 烈</item>
+        <item>Chapter32 迎接</item>
+        <item>Chapter33 紫戀建構-中章</item>
+        <item>Chapter34中後言</item>
+        <item>Chapter35 八界-紫戀 &#38; 颲嵐</item>
+        <item>Chapter36 第一次出演</item>
+        <item>Chapter37 翎的勢力分析</item>
+        <item>Chapter38 中區間</item>
+        <item>Chapter39 後言</item>
+        <item>Chapter40 滅的隱藏勢利分析-爆氣篇</item>
+        <item>Chapter41 最後一戰</item>
+
+    </array>
+    <array name="bookCate4" >
+        <item>給颲嵐建構全體成員</item>
+    </array>
+    <array name="chapterNum">
+        <item>第一章</item>
+        <item>第二章</item>
+        <item>第三章</item>
+        <item>第四章</item>
+    </array>
+    <array name="func">
+        <item>角色</item>
+        <item>關於</item>
+        <item>能力</item>
+        <item>故事</item>
+        <item>離開</item>
+    </array>
+</resources>

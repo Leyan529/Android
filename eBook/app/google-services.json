@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45411024473",
+    "firebase_url": "https://ebook-24547.firebaseio.com",
+    "project_id": "ebook-24547",
+    "storage_bucket": "ebook-24547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45411024473:android:b9c78719c04b05b2",
+        "android_client_info": {
+          "package_name": "leyan.hwma.com.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45411024473-vnkc8nci4dbg9dutg5egao7kt9o59kr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "leyan.hwma.com.ebook",
+            "certificate_hash": "ad533cd4fcadbad733a18f3fb97f89eb9d5325f1"
+          }
+        },
+        {
+          "client_id": "45411024473-3tpvr299lrbetmabeafbu7fd0epu7sq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1r1AtsEne3F7ofhwDCroA1RP9JXB1wvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45411024473-3tpvr299lrbetmabeafbu7fd0epu7sq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

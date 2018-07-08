@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">eBook</string>
+    <string name="password">PassWord:</string>
+    <string name="Account">Account:</string>
+    <string name="login">login</string>
+    <string name="cancel">cancel</string>
+    <string name="setting">setting</string>
+    <string name="help">Help</string>
+    <string name="title_activity_ability">AbilityActivity</string>
+    <string name="type">屬性:</string>
+    <string name="owner">擁有者:</string>
+    <string name="ability_discr">技能描述:</string>
+    <string name="add">新增</string>
+    <string name="show_ability">查看技能</string>
+    <string name="update_ability">修改技能</string>
+    <string name="delete_ability">刪除技能</string>
+    <string name="OK">確定</string>
+    <string name="edit_ability">修改技能</string>
+    <string name="insert_ability">新增技能</string>
+</resources>
