@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\WorkSpace\AndroidWorkSpace\AAD_1072_HW01-N96071075-Leyan-branch\HelloToast\app\src\androidTest\assets"/><source path="D:\WorkSpace\AndroidWorkSpace\AAD_1072_HW01-N96071075-Leyan-branch\HelloToast\app\build\generated\assets\shaders\androidTest\debug"/></dataSet><dataSet config="debug"><source path="D:\WorkSpace\AndroidWorkSpace\AAD_1072_HW01-N96071075-Leyan-branch\HelloToast\app\src\androidTestDebug\assets"/></dataSet></merger>

@@ -1,0 +1,4 @@
+#Wed Mar 13 14:17:46 CST 2019
+base.0=D\:\\WorkSpace\\AndroidWorkSpace\\AAD_1072_HW01-N96071075-Leyan-branch\\ScrollingText2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

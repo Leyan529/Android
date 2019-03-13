@@ -1,0 +1,4 @@
+#Wed Mar 13 21:39:36 CST 2019
+base.0=D\:\\WorkSpace\\AndroidWorkSpace\\AAD_1072_HW01-N96071075-Leyan-branch\\HelloToast\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+path.0=classes.dex
+renamed.0=classes.dex
