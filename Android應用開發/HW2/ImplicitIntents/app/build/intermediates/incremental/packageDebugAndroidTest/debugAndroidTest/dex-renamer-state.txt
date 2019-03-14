@@ -1,0 +1,4 @@
+#Thu Mar 14 13:37:33 CST 2019
+base.0=D\:\\WorkSpace\\AndroidWorkSpace\\ImplicitIntents\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
