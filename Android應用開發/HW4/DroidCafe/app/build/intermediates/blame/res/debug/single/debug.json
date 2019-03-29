@@ -1288,10 +1288,6 @@
         "source": "C:\\Users\\Leyan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b72e3d60b89372cad05541eec77ff068\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "D:\\WorkSpace\\AndroidWorkSpace\\DroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_date_picker.xml.flat",
-        "source": "D:\\WorkSpace\\AndroidWorkSpace\\DroidCafe\\app\\src\\main\\res\\layout\\fragment_date_picker.xml"
-    },
-    {
         "merged": "D:\\WorkSpace\\AndroidWorkSpace\\DroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
         "source": "C:\\Users\\Leyan\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\3ef0d99cfa79634bf31100d91efd22fc\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },

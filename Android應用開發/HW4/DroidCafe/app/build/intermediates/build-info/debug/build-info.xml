@@ -5,32 +5,31 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1553697984785"
+    timestamp="1553834036902"
     token="6888396050399120752"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="263" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="11" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="D:\WorkSpace\AndroidWorkSpace\DroidCafe\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
+        location="D:\WorkSpace\AndroidWorkSpace\DroidCafe\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1553697708584"
+        timestamp="1553833372190"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\WorkSpace\AndroidWorkSpace\DroidCafe\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -71,12 +70,11 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1553697984785"
+        timestamp="1553834036902"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="D:\WorkSpace\AndroidWorkSpace\DroidCafe\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
+            location="D:\WorkSpace\AndroidWorkSpace\DroidCafe\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

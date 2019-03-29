@@ -1,4 +1,4 @@
-#Wed Mar 27 21:58:32 CST 2019
+#Fri Mar 29 12:36:18 CST 2019
 base.0=D\:\\WorkSpace\\AndroidWorkSpace\\DroidCafe\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

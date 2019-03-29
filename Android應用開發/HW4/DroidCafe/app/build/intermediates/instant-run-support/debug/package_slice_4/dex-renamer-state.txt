@@ -1,4 +1,4 @@
-#Wed Mar 27 22:41:54 CST 2019
-base.0=D\:\\WorkSpace\\AndroidWorkSpace\\DroidCafe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\99
+#Fri Mar 29 12:23:00 CST 2019
+base.0=D\:\\WorkSpace\\AndroidWorkSpace\\DroidCafe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex
