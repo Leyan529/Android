@@ -1,0 +1,73 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\WorkSpace\\AndroidWorkSpace\\RecyclerView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\WorkSpace\\AndroidWorkSpace\\RecyclerView\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "49",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1233",
+                        "endColumns": "49",
+                        "endOffsets": "1278"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Leyan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b72e3d60b89372cad05541eec77ff068\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Leyan\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\3ef0d99cfa79634bf31100d91efd22fc\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,671,741,812,884,942,1000,1106,1170,2207",
+                        "endLines": "10,11,12,13,14,15,16,17,18,40",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "666,736,807,879,937,995,1101,1165,1228,2384"
+                    }
+                },
+                {
+                    "source": "D:\\WorkSpace\\AndroidWorkSpace\\RecyclerView\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "20,26,27,31,32,33,34,41",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1283,1567,1657,1807,1887,1967,2048,2389",
+                        "endLines": "25,26,30,31,32,33,36,46",
+                        "endColumns": "12,89,12,79,79,80,12,12",
+                        "endOffsets": "1562,1652,1802,1882,1962,2043,2202,2653"
+                    }
+                }
+            ]
+        }
+    ]
+}
