@@ -1,0 +1,4 @@
+#Wed May 08 15:35:49 CST 2019
+base.0=D\:\\WorkSpace\\Git\\AAD\\DroidCafeWithSettings\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex
