@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1e2a589305ffe9e902acd78b33328fb6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99524ec1303561b2b64d48e4990c23c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\574a6d4d290b7623e8043590dbe5b286\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e32b958fb6f317fadf007ac8f6a10416\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\92dd33d378b30e66c2330f50e43718ca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ba13a93bef135b0fd4d790e944b37d7c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4a004d5f164f06f8f64c2d7be7888425\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e70886bd5628a7527aa0698861b22974\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bbbfa63759c947a63aadd4009009d693\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d7bdb1ecd9c9cdfa388b14a3843ff0b\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0814b7f34e7881d8bc939bc9761c3ce0\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1e2a589305ffe9e902acd78b33328fb6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1e2a589305ffe9e902acd78b33328fb6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99524ec1303561b2b64d48e4990c23c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99524ec1303561b2b64d48e4990c23c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\574a6d4d290b7623e8043590dbe5b286\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\574a6d4d290b7623e8043590dbe5b286\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e32b958fb6f317fadf007ac8f6a10416\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e32b958fb6f317fadf007ac8f6a10416\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\92dd33d378b30e66c2330f50e43718ca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\92dd33d378b30e66c2330f50e43718ca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ba13a93bef135b0fd4d790e944b37d7c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ba13a93bef135b0fd4d790e944b37d7c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4a004d5f164f06f8f64c2d7be7888425\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4a004d5f164f06f8f64c2d7be7888425\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e70886bd5628a7527aa0698861b22974\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e70886bd5628a7527aa0698861b22974\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bbbfa63759c947a63aadd4009009d693\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bbbfa63759c947a63aadd4009009d693\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d7bdb1ecd9c9cdfa388b14a3843ff0b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d7bdb1ecd9c9cdfa388b14a3843ff0b\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0814b7f34e7881d8bc939bc9761c3ce0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0814b7f34e7881d8bc939bc9761c3ce0\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.jobscheduler.MainActivity
+ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:16:27-74
+service#com.example.jobscheduler.MainActivity$NotificationJobService
+ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:19:9-20:72
+	android:permission
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml:19:18-69
+uses-sdk
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1e2a589305ffe9e902acd78b33328fb6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1e2a589305ffe9e902acd78b33328fb6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99524ec1303561b2b64d48e4990c23c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99524ec1303561b2b64d48e4990c23c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\574a6d4d290b7623e8043590dbe5b286\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\574a6d4d290b7623e8043590dbe5b286\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e32b958fb6f317fadf007ac8f6a10416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e32b958fb6f317fadf007ac8f6a10416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\92dd33d378b30e66c2330f50e43718ca\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\92dd33d378b30e66c2330f50e43718ca\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ba13a93bef135b0fd4d790e944b37d7c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ba13a93bef135b0fd4d790e944b37d7c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4a004d5f164f06f8f64c2d7be7888425\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4a004d5f164f06f8f64c2d7be7888425\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e70886bd5628a7527aa0698861b22974\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e70886bd5628a7527aa0698861b22974\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bbbfa63759c947a63aadd4009009d693\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bbbfa63759c947a63aadd4009009d693\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d7bdb1ecd9c9cdfa388b14a3843ff0b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d7bdb1ecd9c9cdfa388b14a3843ff0b\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0814b7f34e7881d8bc939bc9761c3ce0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0814b7f34e7881d8bc939bc9761c3ce0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1e2a589305ffe9e902acd78b33328fb6\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\Git\AAD\JobScheduler\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1e2a589305ffe9e902acd78b33328fb6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\574a6d4d290b7623e8043590dbe5b286\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\574a6d4d290b7623e8043590dbe5b286\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e32b958fb6f317fadf007ac8f6a10416\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e32b958fb6f317fadf007ac8f6a10416\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\92dd33d378b30e66c2330f50e43718ca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\92dd33d378b30e66c2330f50e43718ca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ba13a93bef135b0fd4d790e944b37d7c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ba13a93bef135b0fd4d790e944b37d7c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4a004d5f164f06f8f64c2d7be7888425\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4a004d5f164f06f8f64c2d7be7888425\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e70886bd5628a7527aa0698861b22974\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e70886bd5628a7527aa0698861b22974\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bbbfa63759c947a63aadd4009009d693\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bbbfa63759c947a63aadd4009009d693\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d7bdb1ecd9c9cdfa388b14a3843ff0b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d7bdb1ecd9c9cdfa388b14a3843ff0b\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1e2a589305ffe9e902acd78b33328fb6\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1e2a589305ffe9e902acd78b33328fb6\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0814b7f34e7881d8bc939bc9761c3ce0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0814b7f34e7881d8bc939bc9761c3ce0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Leyan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0814b7f34e7881d8bc939bc9761c3ce0\AndroidManifest.xml:26:13-58

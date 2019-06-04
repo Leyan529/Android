@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jun 04 12:43:03 CST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\jack\\Documents\\Android homework github\\AAD_1072_HW08-N96071180\\NotifyMe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\189
+0.path=classes.dex
+0.set=DEX
+count=1

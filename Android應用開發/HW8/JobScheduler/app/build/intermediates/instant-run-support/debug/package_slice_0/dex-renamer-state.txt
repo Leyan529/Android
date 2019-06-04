@@ -1,0 +1,4 @@
+#Mon Jun 03 21:26:03 CST 2019
+base.0=C\:\\Users\\jack\\Documents\\Android homework github\\AAD_1072_HW08-N96071180\\JobScheduler\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\76
+path.0=classes.dex
+renamed.0=classes.dex

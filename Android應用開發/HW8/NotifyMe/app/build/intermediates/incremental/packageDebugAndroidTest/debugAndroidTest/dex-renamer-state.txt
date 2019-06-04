@@ -1,0 +1,4 @@
+#Sat Jun 01 22:25:31 CST 2019
+base.0=C\:\\Users\\jack\\Documents\\Android homework github\\AAD_1072_HW08-N96071180\\NotifyMe\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

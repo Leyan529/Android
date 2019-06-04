@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="alarm_on_toast">Alarm On!</string>
+    <string name="alarm_off_toast">Alarm Off!</string>
+    <string name="notification_title">Make a Wish!</string>
+    <string name="notification_text">It is 11:11!</string>
+    <string name="alarm_off">Alarm off</string>
+    <string name="alarm_on">Alarm on</string>
+    <string name="toast_message">You will be notified</string>
+
+</resources>
